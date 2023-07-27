@@ -2,6 +2,9 @@
 
 Versioned archive of SRKW signal types
 
+Goal: collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs based on open access audio data and open source scripts that process raw data into optimally-formatted media under Orcasound's BY-SA-NC Creative Commons license. 
+
+Context: an authoritative source of SRKW signals can be shared with other bioacoustic and educational efforts across the SRKW range. Such a souce could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/).
 
 Tasks:
 
@@ -17,7 +20,7 @@ Tasks:
 2. A B&W spectrogram & waveform akin to John Ford's 2022 catalog images in .png format
 3. A spectrogram created with an optimal accessibility color palette in .png format
 4. Thumbnails of each type of spectrogram 
-5. A .yaml file in the format of the HALLO catalogue viewer
+5. A .yaml file in the format of the [HALLO catalogue viewer](https://github.com/coastal-science/call-catalog-viewer)
 
 - Re-write the HTML-generating code in Emily's repo to ingest the .yaml file and the media directory as it builds new web-based verions of an Orcasound signal-catalogue.
 
