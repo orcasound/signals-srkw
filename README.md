@@ -2,18 +2,25 @@
 
 Release-based archive of SRKW signal types
 
-Goal: collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs based on open-access audio data and open source scripts that process raw data into optimally-formatted media under Orcasound's BY-SA-NC Creative Commons license. 
+**Goal:** collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs based on open-access audio data and open source scripts that process raw data into optimally-formatted media under Orcasound's BY-SA-NC Creative Commons license. 
 
-Context: With licensing of data and software agreed upon in advance, an authoritative source of SRKW signals can be shared with between bioacoustic and educational efforts from CA to AK, in the US and Canada -- across the SRKW range. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), the HALLO project's KW call catalogue ([deployed prototype](https://orca.research.sfu.ca/catalogue/) | [Github repo](https://github.com/coastal-science/call-catalog-viewer)), and other related learning resources on the web.
+**Context:** With licensing of data and software agreed upon in advance, an authoritative source of SRKW signals can be shared with between bioacoustic and educational efforts from CA to AK, in the US and Canada -- across the SRKW range. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), the HALLO project's KW call catalogue ([deployed prototype](https://orca.research.sfu.ca/catalogue/) | [Github repo](https://github.com/coastal-science/call-catalog-viewer)), and other related learning resources on the web.
+
+**Latest release:**
+
+- Archive of the raw "Ford-Osborne tape" recordings
+- Basic archive of the Ford-Osborne data products (audio clips and spectograms) that underly extand SRKW call catalogs:
+  - [2002 version of the Orcasound open call catalog](https://www.orcasound.net/FordOsborneVocabulary/_SouthernVocabularyTable.html)
+  - [2018 version of the Orcasound open call catalog](https://www.orcasound.net/data/product/SRKW/call-catalog/srkw-orca-call-catalog.html)
 
 **Tasks for next release:**
 
-- Upload examples of Orcasound whistles
-- Upload some examples from Riesch and Ford (2008)
-- Upload examples of Orcasound click proposed types
+- Upload examples of SRKW whistles (ideally open Orcasound examples of all 7 types)
+- Upload some example SRKW whistles from the Riesch and Ford (2008) recordings provided by John Ford in January, 2024
+- Upload examples of Orcasound's click proposed echolocation categories (to catalyze preliminary labeling for new click detector development)
 
 **Task for subsequent releases: **
-- Upload Ford 2022 files as raw calls
+- Upload Ford 2022 files as raw calls (audio data underlying the new HALLO 2024 KW call catalog)
 - Upload examples of Wieland whistles (from pub)
 
 **Other (longer-term) tasks:**
