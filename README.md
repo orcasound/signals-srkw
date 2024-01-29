@@ -4,7 +4,7 @@ Release-based archive of SRKW signal types
 
 Goal: collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs based on open-access audio data and open source scripts that process raw data into optimally-formatted media under Orcasound's BY-SA-NC Creative Commons license. 
 
-Context: With licensing of data and software agreed upon in advance, an authoritative source of SRKW signals can be shared with between bioacoustic and educational efforts from CA to AK, in the US and Canada -- across the SRKW range. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), the HALLO project's KW call catalogue (deployed prototype]() | [Github repo](https://github.com/coastal-science), and other related learning resources on the web.
+Context: With licensing of data and software agreed upon in advance, an authoritative source of SRKW signals can be shared with between bioacoustic and educational efforts from CA to AK, in the US and Canada -- across the SRKW range. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), the HALLO project's KW call catalogue (deployed prototype](https://orca.research.sfu.ca/catalogue/) | [Github repo]([https://github.com/coastal-science](https://github.com/coastal-science/call-catalog-viewer)), and other related learning resources on the web.
 
 **Tasks for next release:**
 
