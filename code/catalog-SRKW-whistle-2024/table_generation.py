@@ -5,18 +5,16 @@ Created on Sat Sep 22 14:49:00 2018
 Modified on Fri Dec 07 23:18:00 2018
 @author: scottveirs
 Modified on Wed Jan 31 13:00:00 2024
-@author: scottveirs
+@author: lucyday2001 and cottveirs
 """
 
 from os import listdir
 from os.path import isfile, join
 
 #Please update this to YOUR path to orcadata
-#basePath = r"C:\Users\kmuss\Desktop"
-basePath = r"/Users/scott/Dropbox/Scottcoding/Orcasound/"
+basePath = r"/Users/scott/code/orcasound/"
 
-#plotPath = join(basePath, "orcadata", "spectrogram", "Plots")
-folderpath_flac = join(basePath, "orcadata", "Sounds", "catalog", "flac")
+folderpath_audio= join(basePath, "signals-srkw", "signals", "catalog", "audio")
 onlyfiles = sorted([f for f in listdir(folderpath_flac) if isfile(join(join(folderpath_flac, f)))])
 htmlpath = join(basePath, "orcadata", "Website")
 base_URL = "http://www.orcasound.net/data/product/SRKW/call-catalog/no-narration_flac+mp3+ogg+spectrograms/"
