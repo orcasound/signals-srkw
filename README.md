@@ -9,7 +9,7 @@ Release-based archive of SRKW signal types
 **Latest release:**
 
 - Archive of the raw "Ford-Osborne tape" recordings
-- Basic archive of the Ford-Osborne data products (audio clips and spectograms) that underly extand SRKW call catalogs:
+- Basic archive of the Ford-Osborne data products (audio clips and spectograms) that underly extant SRKW call catalogs:
   - [2002 version of the Orcasound open call catalog](https://www.orcasound.net/FordOsborneVocabulary/_SouthernVocabularyTable.html)
   - [2018 version of the Orcasound open call catalog](https://www.orcasound.net/data/product/SRKW/call-catalog/srkw-orca-call-catalog.html)
 
