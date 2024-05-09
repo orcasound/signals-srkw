@@ -15,9 +15,9 @@ Release-based archive of SRKW signal types
 
 **Tasks for next release:**
 
-[ ] Upload examples of SRKW whistles (ideally open Orcasound examples of all 7 types)
-[ ] Upload some example SRKW whistles from the Riesch and Ford (2008) recordings provided by John Ford in January, 2024
-[ ] Upload examples of Orcasound's proposed echolocation categories (to catalyze preliminary labeling for new click detector development)
+[x] Upload examples of SRKW whistles (ideally open Orcasound examples of all 7 types)
+[] Upload some example SRKW whistles from the Riesch and Ford (2008) recordings provided by John Ford in January, 2024
+[] Upload examples of Orcasound's proposed echolocation categories (to catalyze preliminary labeling for new click detector development)
 
 **Task for subsequent releases:**
 - Upload Ford 2022 files as raw calls (audio data underlying the new HALLO 2024 KW call catalog)
