@@ -2,9 +2,15 @@
 
 Release-based archive of SRKW signal types
 
-**Goal:** collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs based on open-access audio data and open source scripts that process raw data into optimally-formatted media under Orcasound's BY-SA-NC Creative Commons license. 
+**Goal:** collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs that are based on open-access audio data and open source scripts. Both audio data and code should be clearly licensed before being shared in a new release of this repository. The default licensing for audio data and data products is Orcasound's BY-SA-NC Creative Commons license. The license for code in this repo is the MIT allowing easy sharing of new catalog designs with other bioacousticians (e.g. for birds or bats, or whales other than orcas). 
 
-**Context:** With licensing of data and software agreed upon in advance, an authoritative source of SRKW signals can be shared  between bioacoustic and educational and annotation efforts from CA to AK, in the US and Canada -- across the range of the SRKW. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), the HALLO project's KW call catalogue ([deployed prototype](https://orca.research.sfu.ca/catalogue/) | [Github repo](https://github.com/coastal-science/call-catalog-viewer)), and other related learning resources on the web.
+**Context:** 
+
+With licensing of data and software agreed upon in advance, we hope that an authoritative source of SRKW signals can be shared between bioacoustic and educational and annotation efforts from CA to AK, in the US and Canada -- across the range of the SRKW. Such a source could catalyze new presentations of the processed media (audio clips and visualizations like spectrograms) beyond the [data products currently organized by Orcasound](https://orcasound.net/data/product/), [Orcasound's learning resources](https://www.orcasound.net/learn/), the HALLO project's KW call catalogue ([deployed prototype](https://orca.research.sfu.ca/catalogue/) | [Github repo](https://github.com/coastal-science/call-catalog-viewer)), and other related learning resources on the web.
+
+With agreement on the names of signals and their definition through a dictionary we can label audio data more-efficiently as a community of bioacsoustcians. Such labels are valuable in organizing training materials for human listeners and in generating training data to refine [Artificial Intelligence for Orcas](https://ai4orcas.net). We hope agreeement can be reached through a [data label dictionary (shared Google spreadsheet) of Salish Sea signals](https://docs.google.com/spreadsheets/d/1pskIEYjIVQH0IPa10UBuAZHKaGsxs02_itSIZ1Z7oAw/edit?gid=0#gid=0) as well as detailed [discussions of signal categories within this repo's Github Discussions](https://github.com/orcasound/signals-srkw/discussions).
+
+By sharing open signal catalogs with a UI that allows playback of audio (rather than only visual represenations like spectrograms or waveforms), we can help both humans and algorithms understand how to split and lump sounds into particular categories. This learned classification process also depends on and feeds back into consistent, standardized labeling of audio signals.
 
 **Latest release:**
 
