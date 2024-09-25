@@ -2,7 +2,7 @@
 
 Release-based archive of SRKW signal types
 
-**Goal:** collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs that are based on open-access audio data and open source scripts. Both audio data and code should be clearly licensed before being shared in a new release of this repository. The default licensing for audio data and data products is Orcasound's BY-SA-NC Creative Commons license. The license for code in this repo is the MIT allowing easy sharing of new catalog designs with other bioacousticians (e.g. for birds or bats, or whales other than orcas). 
+**Goal:** collaborate with other bioacoustic experts to agree upon new versions of SRKW signal catalogs that are based on open-access audio data and open source scripts. Both audio data and code should be clearly licensed before being shared in a new release of this repository. Pending contributions from non-Orcasound projects, the default licensing for audio data and data products in this repo is Orcasound's BY-SA-NC Creative Commons license (and attribution should simply be a link back to this repo and a link to orcasound.net ). The license for code in this repo is the MIT license which we hope is permissive enough to allow easy sharing of new catalog designs with other bioacousticians (e.g. for birds or bats, or whales other than orcas). 
 
 **Context:** 
 
