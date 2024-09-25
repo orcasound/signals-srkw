@@ -22,7 +22,7 @@ By sharing open signal catalogs with a UI that allows playback of audio (rather 
 **Tasks for next release:**
 
 - [ ] SRKW whistles
-  - [x] Upload examples of whistles (ideally open Orcasound examples of all 7 types)
+  - [x] Upload examples of whistles (ideally open Orcasound examples of all 7 types, e.g. from Lucy's [SRKW whistle catalog](https://orcasound.net/data/product/biophony/SRKW/whistle-catalog/latest.html))
   - [ ] Upload some example whistles from the Riesch and Ford (2008) recordings provided by John Ford in January, 2024
 - [ ] Add clicks
   - [ ] [Discuss SRKW echolocation nomenclature](https://github.com/orcasound/signals-srkw/discussions/14), standardizing if possible with HALLO project
