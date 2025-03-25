@@ -64,7 +64,9 @@ From finwave.io API and/or Google API of other community resources, like the Big
  - Do SRKWs ever create impulsive sounds through mechanisms other than surface percussives?
  - Do they make anything like ["Bigg's bangs"](https://www.orcasound.net/2018/12/08/biggs-bangs-the-sound-of-marine-mammal-death-heard-live/)?
 - Rasps
- - a series of frequency modulated clicks associated with foraging in other odontocetes (Aguilar de Soto et al., 2012)  
+ - a series of frequency modulated clicks associated with foraging in other odontocetes (Aguilar de Soto et al., 2012)
+- Calls that have meaning (as we discover it, e.g. call types shared across KW ecotypes, like the excitement call [S10 in SRKWs])
+ - excitement
 
 # Methodology of labeling:
 
