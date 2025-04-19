@@ -1,6 +1,6 @@
 ## raw sub-directory
 
-...should include all audio files contributed to a signal catalog, ideally in a lossless format like FLAC (with suffix .flac -- or, if you want to applaud Microsoft, WAV with suffix .wav).
+...should include all audio files contributed to a signal catalog, ideally in a lossless format like FLAC (with suffix .flac) -- or, if you want to applaud Microsoft, WAV (with suffix .wav).
 
 ## processed sub-directory
 
