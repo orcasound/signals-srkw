@@ -31,6 +31,10 @@ By sharing open signal catalogs with a UI that allows playback of audio (rather 
 **Task for subsequent releases:**
 - Upload Ford 2022 files as raw calls (audio data underlying the new HALLO 2024 KW call catalog)
 - Upload examples of Wieland whistles (from pub)?
+- Upload examples of high-frequency modulated signals observed by Simonis et al. (2012) on WA coast from offshore ecoytpe (in anticipation of SRKWs also using them):
+
+![Screenshot 2026-04-09 at 9 01 36 AM](https://github.com/user-attachments/assets/fe528c0a-c71a-4d02-8691-9b3c32fc7607)
+
 
 **Other (longer-term) tasks:**
 - Generate a list of files to process for Orcasound data products
